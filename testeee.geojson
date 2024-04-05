@@ -282,10 +282,6 @@
               ]
             ]
           ]
-        },
-        "style": {
-            "fill": "#fc0303",
-            "stroke-width":"10"
         }
       },
       {
@@ -108672,8 +108668,10 @@
             ]
           ],
           "style": {
-            "fill": "#fc0303",
-            "stroke-width":"10"
+            "__comment": "all SVG styles allowed",
+            "fill":"red",
+            "stroke-width":"3",
+            "fill-opacity":0.6
         }
         }
       }
