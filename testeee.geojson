@@ -108668,9 +108668,8 @@
             ]
           ],
           "style": {
-            "__comment": "all SVG styles allowed",
-            "fill":"red",
-            "stroke-width":"3"
+            "fill": "#fc0303",
+            "stroke-width":"10"
         }
         }
       }
