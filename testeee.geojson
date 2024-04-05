@@ -108399,7 +108399,8 @@
         "properties": {
             "id": "01",
             "name": "ret",
-            "description": "testeeee"
+            "description": "testeeee",
+            "fill": "#555555"
           },
         "geometry": {
           "type": "Polygon",
@@ -108666,12 +108667,7 @@
                 -27.057734935348932
               ]
             ]
-          ],
-          "style": {
-            "__comment": "all SVG styles allowed",
-            "fill":"red",
-            "stroke-width":"20"
-        }
+          ]
         }
       }
     ]
