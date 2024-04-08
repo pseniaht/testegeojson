@@ -3660,7 +3660,8 @@
       "properties": {
         "id": "2401701",
         "name": "bom jesus",
-        "description": "bom jesus"
+        "description": "bom jesus",
+        "Consult2": 234
       },
       "geometry": {
         "type": "Polygon",
@@ -3719,7 +3720,8 @@
       "properties": {
         "id": "2401800",
         "name": "brejinho",
-        "description": "brejinho"
+        "description": "brejinho",
+        "Consult2": 59
       },
       "geometry": {
         "type": "Polygon",
@@ -3794,7 +3796,8 @@
       "properties": {
         "id": "2401859",
         "name": "caicara do norte",
-        "description": "caicara do norte"
+        "description": "caicara do norte",
+        "Consult2": 21
       },
       "geometry": {
         "type": "Polygon",
@@ -4431,7 +4434,8 @@
       "properties": {
         "id": "2402105",
         "name": "campo redondo",
-        "description": "campo redondo"
+        "description": "campo redondo",
+        "Consult2": 51
       },
       "geometry": {
         "type": "Polygon",
@@ -4570,7 +4574,8 @@
       "properties": {
         "id": "2402204",
         "name": "canguaretama",
-        "description": "canguaretama"
+        "description": "canguaretama",
+        "Consult2": 47
       },
       "geometry": {
         "type": "Polygon",
@@ -6983,7 +6988,8 @@
       "properties": {
         "id": "2403251",
         "name": "parnamirim",
-        "description": "parnamirim"
+        "description": "parnamirim",
+        "Consult2": 4613
       },
       "geometry": {
         "type": "Polygon",
@@ -7420,7 +7426,8 @@
       "properties": {
         "id": "2403509",
         "name": "espirito santo",
-        "description": "espirito santo"
+        "description": "espirito santo",
+        "Consult2": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -7523,7 +7530,8 @@
       "properties": {
         "id": "2403608",
         "name": "extremoz",
-        "description": "extremoz"
+        "description": "extremoz",
+        "Consult2": 274
       },
       "geometry": {
         "type": "Polygon",
@@ -8676,7 +8684,8 @@
       "properties": {
         "id": "2404200",
         "name": "goianinha",
-        "description": "goianinha"
+        "description": "goianinha",
+        "Consult2": 68
       },
       "geometry": {
         "type": "Polygon",
@@ -8998,7 +9007,8 @@
       "properties": {
         "id": "2404408",
         "name": "grossos",
-        "description": "grossos"
+        "description": "grossos",
+        "Consult2": 5
       },
       "geometry": {
         "type": "Polygon",
@@ -9220,7 +9230,8 @@
       "properties": {
         "id": "2404606",
         "name": "ielmo marinho",
-        "description": "ielmo marinho"
+        "description": "ielmo marinho",
+        "Consult2": 25
       },
       "geometry": {
         "type": "Polygon",
@@ -9907,7 +9918,8 @@
       "properties": {
         "id": "2405009",
         "name": "jacana",
-        "description": "jacana"
+        "description": "jacana",
+        "Consult2": 9
       },
       "geometry": {
         "type": "Polygon",
@@ -11055,7 +11067,8 @@
       "properties": {
         "id": "2405801",
         "name": "joao camara",
-        "description": "joao camara"
+        "description": "joao camara",
+        "Consult2": 203
       },
       "geometry": {
         "type": "Polygon",
@@ -12153,7 +12166,8 @@
       "properties": {
         "id": "2406304",
         "name": "lagoa de pedras",
-        "description": "lagoa de pedras"
+        "description": "lagoa de pedras",
+        "Consult2": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -12682,7 +12696,8 @@
       "properties": {
         "id": "2406601",
         "name": "lagoa salgada",
-        "description": "lagoa salgada"
+        "description": "lagoa salgada",
+        "Consult2": 129
       },
       "geometry": {
         "type": "Polygon",
@@ -13353,7 +13368,8 @@
       "properties": {
         "id": "2407104",
         "name": "macaiba",
-        "description": "macaiba"
+        "description": "macaiba",
+        "Consult2": 579
       },
       "geometry": {
         "type": "Polygon",
@@ -13516,7 +13532,8 @@
       "properties": {
         "id": "2407203",
         "name": "macau",
-        "description": "macau"
+        "description": "macau",
+        "Consult2": 127
       },
       "geometry": {
         "type": "Polygon",
@@ -14292,7 +14309,8 @@
       "properties": {
         "id": "2407500",
         "name": "maxaranguape",
-        "description": "maxaranguape"
+        "description": "maxaranguape",
+        "Consult2": 20
       },
       "geometry": {
         "type": "Polygon",
@@ -15055,7 +15073,8 @@
       "properties": {
         "id": "2408003",
         "name": "mossoro",
-        "description": "mossoro"
+        "description": "mossoro",
+        "Consult2": 18
       },
       "geometry": {
         "type": "Polygon",
@@ -15342,7 +15361,8 @@
       "properties": {
         "id": "2408102",
         "name": "natal",
-        "description": "natal"
+        "description": "natal",
+        "Consult2": 19925
       },
       "geometry": {
         "type": "Polygon",
@@ -15497,7 +15517,8 @@
       "properties": {
         "id": "2408201",
         "name": "nisia floresta",
-        "description": "nisia floresta"
+        "description": "nisia floresta",
+        "Consult2": 144
       },
       "geometry": {
         "type": "Polygon",
@@ -15696,7 +15717,8 @@
       "properties": {
         "id": "2408300",
         "name": "nova cruz",
-        "description": "nova cruz"
+        "description": "nova cruz",
+        "Consult2": 236
       },
       "geometry": {
         "type": "Polygon",
@@ -17071,7 +17093,8 @@
       "properties": {
         "id": "2409209",
         "name": "passagem",
-        "description": "passagem"
+        "description": "passagem",
+        "Consult2": 8
       },
       "geometry": {
         "type": "Polygon",
@@ -17578,7 +17601,8 @@
       "properties": {
         "id": "2409605",
         "name": "pedra preta",
-        "description": "pedra preta"
+        "description": "pedra preta",
+        "Consult2": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -19191,7 +19215,8 @@
       "properties": {
         "id": "2410603",
         "name": "rafael godeiro",
-        "description": "rafael godeiro"
+        "description": "rafael godeiro",
+        "Consult2": 32
       },
       "geometry": {
         "type": "Polygon",
@@ -20116,7 +20141,8 @@
       "properties": {
         "id": "2411205",
         "name": "santa cruz",
-        "description": "santa cruz"
+        "description": "santa cruz",
+        "Consult2": 114
       },
       "geometry": {
         "type": "Polygon",
@@ -20355,7 +20381,8 @@
       "properties": {
         "id": "2411403",
         "name": "santana do matos",
-        "description": "santana do matos"
+        "description": "santana do matos",
+        "Consult2": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -20930,7 +20957,8 @@
       "properties": {
         "id": "2411502",
         "name": "santo antonio",
-        "description": "santo antonio"
+        "description": "santo antonio",
+        "Consult2": 64
       },
       "geometry": {
         "type": "Polygon",
@@ -21713,7 +21741,8 @@
       "properties": {
         "id": "2412005",
         "name": "sao goncalo do amarante",
-        "description": "sao goncalo do amarante"
+        "description": "sao goncalo do amarante",
+        "Consult2": 706
       },
       "geometry": {
         "type": "Polygon",
@@ -22071,7 +22100,8 @@
       "properties": {
         "id": "2412203",
         "name": "sao jose de mipibu",
-        "description": "sao jose de mipibu"
+        "description": "sao jose de mipibu",
+        "Consult2": 286
       },
       "geometry": {
         "type": "Polygon",
@@ -22334,7 +22364,8 @@
       "properties": {
         "id": "2412302",
         "name": "sao jose do campestre",
-        "description": "sao jose do campestre"
+        "description": "sao jose do campestre",
+        "Consult2": 32
       },
       "geometry": {
         "type": "Polygon",
@@ -22672,7 +22703,8 @@
       "properties": {
         "id": "2412500",
         "name": "sao miguel",
-        "description": "sao miguel"
+        "description": "sao miguel",
+        "Consult2": 43
       },
       "geometry": {
         "type": "Polygon",
@@ -22895,7 +22927,8 @@
       "properties": {
         "id": "2412559",
         "name": "sao miguel do gostoso",
-        "description": "sao miguel do gostoso"
+        "description": "sao miguel do gostoso",
+        "Consult2": 8
       },
       "geometry": {
         "type": "Polygon",
@@ -23066,7 +23099,8 @@
       "properties": {
         "id": "2412609",
         "name": "sao paulo do potengi",
-        "description": "sao paulo do potengi"
+        "description": "sao paulo do potengi",
+        "Consult2": 160
       },
       "geometry": {
         "type": "Polygon",
@@ -25340,7 +25374,8 @@
       "properties": {
         "id": "2413904",
         "name": "taipu",
-        "description": "taipu"
+        "description": "taipu",
+        "Consult2": 19
       },
       "geometry": {
         "type": "Polygon",
@@ -25479,7 +25514,8 @@
       "properties": {
         "id": "2414001",
         "name": "tangara",
-        "description": "tangara"
+        "description": "tangara",
+        "Consult2": 22
       },
       "geometry": {
         "type": "Polygon",
@@ -25928,7 +25964,8 @@
       "properties": {
         "id": "2414209",
         "name": "tibau do sul",
-        "description": "tibau do sul"
+        "description": "tibau do sul",
+        "Consult2": 275
       },
       "geometry": {
         "type": "Polygon",
@@ -26142,7 +26179,8 @@
       "properties": {
         "id": "2414407",
         "name": "touros",
-        "description": "touros"
+        "description": "touros",
+        "Consult2": 221
       },
       "geometry": {
         "type": "Polygon",
@@ -30943,6 +30981,149 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          -37.305,
+          -5.210556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          -35.196111,
+          -5.797222
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          -37.7969,
+          -5.6626
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          -36.5146,
+          -6.2548
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          -36.6344,
+          -5.1148
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          -37.5586,
+          -5.7839
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          -35.4286,
+          -6.4751
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          -38.2077,
+          -6.105
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          -35.2084,
+          -6.267
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          -36.0193,
+          -6.2248
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          -36.9087,
+          -5.5766
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          35.822819,
+          -5.6938
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          -35.926,
+          -5.9506
+        ],
+        "type": "Point"
+      }
     }
-    ]
-  }
+  ]
+}
