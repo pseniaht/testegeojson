@@ -24406,7 +24406,8 @@
             ]
           ]
         ]
-      }
+      },
+      "id": 144
     },
     {
       "type": "Feature",
@@ -27529,7 +27530,7 @@
       "properties": {},
       "geometry": {
         "coordinates": [
-          35.822819,
+          -35.822819,
           -5.6938
         ],
         "type": "Point"
